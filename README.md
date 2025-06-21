@@ -17,7 +17,7 @@
 
 ## 界面预览
 
-![翻译工具界面](https://via.placeholder.com/800x500.png?text=Minecraft+Translator+UI+Preview)
+![翻译工具界面](./images/APP_UI.png)
 
 ## 安装要求
 
