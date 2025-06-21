@@ -1,10 +1,6 @@
 # Minecraft 模组翻译工具 (Python版)
 
-![Minecraft Translation Tool](https://img.shields.io/badge/Minecraft-Mod%20Translation-blue)
-
-![Python Version](https://img.shields.io/badge/Python-3.6%2B-green)
-
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Minecraft Translation Tool](https://img.shields.io/badge/Minecraft-Mod%20Translation-blue) ![Python Version](https://img.shields.io/badge/Python-3.6%2B-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 这是一个使用Python和PyQt5开发的Minecraft模组翻译工具，提供简洁高效的翻译界面。支持.lang和.json两种格式的语言文件，帮助模组开发者快速完成本地化工作。
 
